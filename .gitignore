@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data/*.db
+outputs/clips/*.mp4
+outputs/clips/*.mp3
+client_secret*.json
+token*.json

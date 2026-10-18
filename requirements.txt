@@ -1,0 +1,7 @@
+# Core dashboard/research runs on Python stdlib alone — nothing required.
+# Install these only to unlock real downloading / transcription / uploading:
+yt-dlp>=2024.0
+faster-whisper>=1.0
+google-api-python-client>=2.0
+google-auth-oauthlib>=1.0
+# ffmpeg is NOT a pip package — install it separately (see SETUP.md)
